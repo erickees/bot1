@@ -1,6 +1,6 @@
-﻿{
+{
   "name": "Bot para Subir a las Moodle V7.2 Modded",
-  "description": "bot 7.2",
+  "description": "By erickees",
   "env": {
     "administrador": {
       "description": "Tu usuario de Telegram sin el Símbolo de @",
@@ -9,7 +9,7 @@
     "bot_token": {
       "description": "Token del BOT (Se obtiene en BOT Father)",
       "value": ""
-    },     
+    },
   },
   "buildpacks": [
     {
